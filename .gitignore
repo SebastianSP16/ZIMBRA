@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+env.txt
+*.log
+coverage/
+
+/Trabaja_Zimbra_Primera Entrega.docx
+/ZIMBRA_DEFINITIVO.png
+/create_auth.py
+/updatehash.cjs
+/updatehash.mjs
+/verify.js
+/verify.mjs
